@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.gis',
     'django_semantic_ui',
 ]
 
@@ -92,10 +93,17 @@ WSGI_APPLICATION = 'MAPTITUDE.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
+        'NAME': 'MAPTITUDE',
+        'USER': 'maptitude',
+        'PASSWORD': 'irna3ev8',
     }
 }
+
+OSGEO_VENV = 'C:\\Anaconda3\\Library\\bin'
+GEOS_LIBRARY_PATH = str(OSGEO_VENV + '\\geos_c.dll')
+GDAL_LIBRARY_PATH = str(OSGEO_VENV + '\\gdal203.dll')
+os.environ["PATH"] += os.pathsep + str(OSGEO_VENV)
 
 
 # Password validation
