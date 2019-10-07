@@ -109,6 +109,11 @@ GDAL_LIBRARY_PATH = str(OSGEO_VENV + '\\gdal203.dll')
 os.environ["PATH"] += os.pathsep + str(OSGEO_VENV)
 """
 
+GULP_VERSION = '3.9.1'
+SEMANTIC_UI_VERSION = '^2.4.2'
+SEMANTIC_DIRNAME = 'semantic'
+
+
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
