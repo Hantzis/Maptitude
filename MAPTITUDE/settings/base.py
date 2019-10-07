@@ -78,6 +78,7 @@ TEMPLATES = [
             'context_processors': [
                 'django.template.context_processors.debug',
                 'django.template.context_processors.request',
+                'django.template.context_processors.static',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
@@ -94,16 +95,19 @@ WSGI_APPLICATION = 'MAPTITUDE.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'MAPTITUDE',
+        'HOST': 'localhost',
+        'NAME': 'maptitude',
         'USER': 'maptitude',
         'PASSWORD': 'irna3ev8',
     }
 }
 
+"""
 OSGEO_VENV = 'C:\\Anaconda3\\Library\\bin'
 GEOS_LIBRARY_PATH = str(OSGEO_VENV + '\\geos_c.dll')
 GDAL_LIBRARY_PATH = str(OSGEO_VENV + '\\gdal203.dll')
 os.environ["PATH"] += os.pathsep + str(OSGEO_VENV)
+"""
 
 
 # Password validation
