@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'django_semantic_ui',
+    'webgis',
 ]
 
 MIDDLEWARE = [
