@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'django.contrib.gis',
     'django_semantic_ui',
     'webgis',
+    'django_json_widget',
 ]
 
 MIDDLEWARE = [
