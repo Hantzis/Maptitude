@@ -104,12 +104,12 @@ DATABASES = {
     }
 }
 
-"""
+# """
 OSGEO_VENV = 'C:\\Anaconda3\\Library\\bin'
 GEOS_LIBRARY_PATH = str(OSGEO_VENV + '\\geos_c.dll')
 GDAL_LIBRARY_PATH = str(OSGEO_VENV + '\\gdal203.dll')
 os.environ["PATH"] += os.pathsep + str(OSGEO_VENV)
-"""
+# """
 
 GULP_VERSION = '3.9.1'
 SEMANTIC_UI_VERSION = '^2.4.2'
