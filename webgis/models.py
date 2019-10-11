@@ -4,11 +4,17 @@ from django.contrib.auth.models import User
 
 # Create your models here.
 
+class WGCell(models.Model):
+    cell_geom = models.PolygonField()
+    cell_user = models.ForeignKey(User, on_delete=models.PROTECT, )
+
+
 class WGProject(models.Model):
     project_name = models.CharField(max_length=255)
     project_owner = models.ForeignKey(User, on_delete=models.PROTECT, related_name='owner_project')
     project_users = models.ManyToManyField(User, related_name='users_project')
     project_cellsize = models.PositiveIntegerField(default=1000)
+    project_cells = models.ManyToManyField(WGCell, blank=True, null=True)
     project_geom = models.PolygonField()
 
     def __str__(self):
