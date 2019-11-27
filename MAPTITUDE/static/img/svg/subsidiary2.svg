@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+
+<g>
+	<defs>
+		<path id="57870652_SVGID_1__grid" d="M44,14h-9V7c0-1.657-1.343-3-3-3H20c-1.657,0-3,1.343-3,3v17H8c-1.656,0-3,1.343-3,3v34h42V17    C47,15.343,45.657,14,44,14z"></path>
+	</defs>
+	<clipPath id="57870652_SVGID_2__grid">
+		<use xlink:href="#57870652_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st4" style="clip-path:url(#57870652_SVGID_2__grid);;">
+		<rect x="5" y="4" class="st7" width="42" height="57" style="fill:#DEDCD9;;"></rect>
+		<path class="st6" d="M29,45h-6v-7h6V45z M29,48h-6v7h6V48z M29,28h-6v7h6V28z M29,18h-6v7h6V18z M29,8h-6v7h6V8z M41,28h-6v6h6V28    z M41,18h-6v7h6V18z M17,48h-6v7h6V48z M17,38h-6v7h6V38z M17,28h-6v7h6V28z" style="opacity:0.1;fill:#231F20;;"></path>
+		<polygon class="st2" points="42.833,4 17,4 17,57.071 42.833,12.325   " style="fill:#FFFFFF;fill-opacity:0.3;;"></polygon>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="57870652_SVGID_3__grid" d="M56,24H44c-1.656,0-3,1.343-3,3v7h-9c-1.656,0-3,1.344-3,3v24h30V27C59,25.343,57.657,24,56,24z"></path>
+	</defs>
+	<clipPath id="57870652_SVGID_4__grid">
+		<use xlink:href="#57870652_SVGID_3__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st5" style="clip-path:url(#57870652_SVGID_4__grid);;">
+		<rect x="29" y="24" class="stshockcolor" width="30" height="37" style="fill:#75C3BD;;" data-st="fill:#75C3BD;;"></rect>
+		<polygon class="st1" points="59,24 41,24 41,61 59,29.829   " style="opacity:0.3;fill:#FFFFFF;;"></polygon>
+		<path class="st3" d="M41,55h-6v-7h6V55z M41,38h-6v7h6V38z M53,48h-6v7h6V48z M53,38h-6v7h6V38z M53,28h-6v7h6V28z" style="fill:#FFFFFF;fill-opacity:0.5;;"></path>
+	</g>
+</g>
+</svg>

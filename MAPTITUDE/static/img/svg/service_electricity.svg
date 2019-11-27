@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+
+<g>
+	<defs>
+		<path id="57870632_SVGID_1__grid" d="M49,22c0-9.389-7.611-17-17-17s-17,7.611-17,17c0,3.097,0.842,5.992,2.289,8.493l14.71,25.504    l14.712-25.504C48.158,27.992,49,25.097,49,22z"></path>
+	</defs>
+	<use xlink:href="#57870632_SVGID_1__grid" class="stshockcolor" style="fill:#F2CE38;;overflow:visible;fill-rule:evenodd;clip-rule:evenodd;" data-st="fill:#F2CE38;;overflow:visible;fill-rule:evenodd;clip-rule:evenodd;"></use>
+	<clipPath id="57870632_SVGID_2__grid">
+		<use xlink:href="#57870632_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st1" style="clip-path:url(#57870632_SVGID_2__grid);;">
+		<path class="st2" d="M15,22c0,9.371,7.597,16.969,16.969,16.969c9.371,0,16.969-7.598,16.969-16.969    c0-3.092-0.84-5.98-2.285-8.477L31.97-11.934L17.285,13.523C15.841,16.02,15,18.908,15,22z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.3;;"></path>
+		<path class="st2" d="M35.005,22c0-9.371-7.597-16.969-16.969-16.969C8.665,5.031,1.067,12.629,1.067,22    c0,3.092,0.84,5.98,2.285,8.477l14.683,25.458L25,43.86l7.72-13.383C34.164,27.98,35.005,25.092,35.005,22z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.3;;"></path>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="57870632_SVGID_3__grid" d="M39,58.544l-5.27,3.044c-0.952,0.55-2.511,0.55-3.463,0l-5.265-3.039L25,43.86h14V58.544z"></path>
+	</defs>
+	<use xlink:href="#57870632_SVGID_3__grid" style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#80A3BA;"></use>
+	<clipPath id="57870632_SVGID_4__grid">
+		<use xlink:href="#57870632_SVGID_3__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<path class="st0" d="M41,57H23l0.001-2H41V57z M41,51H23.001L23,53h18V51z M41,47H23.001L23,49h18V47z" style="opacity:0.25;clip-path:url(#57870632_SVGID_4__grid);fill:#FFFFFF;;"></path>
+</g>
+<g>
+	<g>
+		<polygon class="st3" points="38.5,20.5 32.585,20.5 33.814,12.1 25.5,26.5 31.415,26.5 30.186,34.9   " style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;;"></polygon>
+	</g>
+</g>
+</svg>

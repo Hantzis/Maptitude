@@ -3,10 +3,11 @@ from django.contrib.postgres import fields
 from django_json_widget.widgets import JSONEditorWidget
 from django.contrib.gis.admin import OSMGeoAdmin
 from . models import *
+from wagtail.contrib.modeladmin.options import ModelAdmin, modeladmin_register, ModelAdminGroup
 
 # Register your models here.
 
-
+# admin.site.register(Conflicto, OSMGeoAdmin)
 @admin.register(WGProject)
 class WGProjectAdmin(OSMGeoAdmin):
     formfield_overrides = {

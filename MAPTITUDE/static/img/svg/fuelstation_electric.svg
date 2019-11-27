@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+
+<g>
+	<path class="stshockcolor" d="M60,10h-8v11.031C52,22.238,52.822,23,53.97,23h4.061c1.147,0,1.97-0.762,1.97-1.969V10z" style="fill:#7DC0D8;;" data-st="fill:#7DC0D8;;"></path>
+	<path class="st2" d="M50,45c0,1.104,0.899,2,2.002,2C53.105,47,54,46.104,54,45c0-1.833,0-22,0-22h4c0,0,0,18.69,0,22s-2.69,6-6,6   s-6-2.69-6-6c0-2.85,0-16,0-16h-5v-6h6c1.579-0.008,3,1.073,3,3C50,28,50,43.417,50,45z" style="fill:#A6A69F;;"></path>
+</g>
+<g>
+	<defs>
+		<path id="573570723_SVGID_1_" d="M46,60H16V10.816C16,7.051,19.051,4,22.816,4h16.364C42.949,4,46,7.051,46,10.816V60z"></path>
+	</defs>
+	<use xlink:href="#573570723_SVGID_1_" style="overflow:visible;fill:#DEDCD9;"></use>
+	<clipPath id="573570723_SVGID_2_">
+		<use xlink:href="#573570723_SVGID_1_" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st1" style="clip-path:url(#573570723_SVGID_2_);;">
+		<rect x="16" y="4" class="stshockcolor" width="30.027" height="19" style="fill:#7DC0D8;;" data-st="fill:#7DC0D8;;"></rect>
+	</g>
+</g>
+<polygon class="stshockcolor" points="35.933,31 31.327,31 32.498,23 25.568,34.999 30.178,34.999 29.006,43 " style="fill:#7DC0D8;;" data-st="fill:#7DC0D8;;"></polygon>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+
+<g>
+	<defs>
+		<path id="574940178_SVGID_1__grid" d="M30.612,48.646c-0.375,0.216-0.806,0.33-1.252,0.33c-0.895,0-1.723-0.477-2.168-1.252L15.647,27.731    c-0.448-0.775-0.448-1.731,0-2.508c4.128-7.147,9.233-12.603,13.875-15.284c6.099-3.52,11.039-0.877,11.861,0.545    c0,0-6.3,31.087-6.752,31.862l-3.104,5.376C31.304,48.111,30.985,48.431,30.612,48.646z M12.294,53.085L21,38L3.588,38.001    c-0.463,0-0.908,0.125-1.297,0.348c-0.385,0.224-0.715,0.545-0.944,0.945c-0.462,0.799-0.462,1.784,0,2.585l6.466,11.206    c0.463,0.8,1.315,1.292,2.241,1.292c0.463,0,0.907-0.125,1.292-0.349C11.734,53.807,12.065,53.485,12.294,53.085z"></path>
+	</defs>
+	<use xlink:href="#574940178_SVGID_1__grid" class="stshockcolor" style="fill:#93C1CF;;overflow:visible;fill-rule:evenodd;clip-rule:evenodd;" data-st="fill:#93C1CF;;overflow:visible;fill-rule:evenodd;clip-rule:evenodd;"></use>
+	<clipPath id="574940178_SVGID_2__grid">
+		<use xlink:href="#574940178_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st2" style="clip-path:url(#574940178_SVGID_2__grid);;">
+		<polygon class="st6" points="41.803,25.987 1,49.545 1,54.377 41.803,54.377   " style="opacity:0.15;fill-rule:evenodd;clip-rule:evenodd;fill:#47475E;;"></polygon>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="574940178_SVGID_3__grid" d="M33.182,13.645c-5.902,3.408-9.748,8.14-12.143,12.291C20.181,27.419,15.055,36.298,10.61,44    c8.89,0,19.143-0.001,20.856,0c4.794,0,10.812-0.967,16.714-4.377c9.06-5.229,13.757-14.445,13.757-25.262    C52.572,8.953,42.236,8.415,33.182,13.645z"></path>
+	</defs>
+	<use xlink:href="#574940178_SVGID_3__grid" style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#75A2D8;"></use>
+	<clipPath id="574940178_SVGID_4__grid">
+		<use xlink:href="#574940178_SVGID_3__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st3" style="clip-path:url(#574940178_SVGID_4__grid);;">
+		<g class="st4" style="opacity:0.3;;">
+			<polygon class="st1" points="61.938,14.361 10.61,44 61.938,44    " style="opacity:0.7;fill-rule:evenodd;clip-rule:evenodd;fill:#47475E;;"></polygon>
+			<path class="st5" d="M73.8,7.514c4.951,8.573,2.012,19.537-6.556,24.484c-8.58,4.956-19.54,2.016-24.496-6.557     c-4.941-8.573-2.006-19.538,6.563-24.487C57.89-4,68.848-1.061,73.8,7.514z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;;"></path>
+		</g>
+		<path class="st0" d="M50.029,18.502c0.824,1.435,0.33,3.269-1.105,4.096c-1.431,0.827-3.265,0.336-4.092-1.093    c-0.83-1.437-0.341-3.271,1.096-4.103C47.363,16.575,49.199,17.066,50.029,18.502z" style="opacity:0.6;fill-rule:evenodd;clip-rule:evenodd;fill:#47475E;;"></path>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="575339353_Layer_1_grid" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+
+<g>
+	<defs>
+		<path id="575339353_SVGID_1__grid" d="M8,53.917c-1.656,0-3-1.344-3-3V13c0-1.657,1.344-3,3-3h48c1.657,0,3,1.343,3,3v24.097l-9.711,16.82H8z"></path>
+	</defs>
+	<use xlink:href="#575339353_SVGID_1__grid" style="overflow:visible;fill:#DEDCD9;"></use>
+	<clipPath id="575339353_SVGID_2__grid">
+		<use xlink:href="#575339353_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st3" style="clip-path:url(#575339353_SVGID_2__grid);;">
+		<rect x="5" y="10" class="stshockcolor" width="54" height="13" style="fill:#EA7A2F;;" data-st="fill:#EA7A2F;;"></rect>
+		<polygon class="st5" points="58.973,53.917 18.705,53.917 58.973,30.669   " style="fill:#231F20;fill-opacity:0.15;;"></polygon>
+		<path class="st5" d="M19,15c0-1.104,0-5,0-5h14.661c0,0-11.063,6.387-11.661,6.732C21.706,16.902,21.364,17,21,17    C19.896,17,19,16.104,19,15z M44,17c0.364,0,0.706-0.098,1-0.268C45.598,16.387,56.661,10,56.661,10H42c0,0,0,3.896,0,5    S42.896,17,44,17z" style="fill:#231F20;fill-opacity:0.15;;"></path>
+	</g>
+</g>
+<g>
+	<path class="st7" d="M45.937,48.104l3.353,5.813l9.721-16.814l-11.973,6.903C45.602,44.833,45.108,46.668,45.937,48.104z" style="fill:#DEDCD9;;"></path>
+	<path class="st2" d="M45.937,48.104l3.353,5.813l9.721-16.814l-11.973,6.903C45.602,44.833,45.108,46.668,45.937,48.104z" style="opacity:0.5;fill:#FFFFFF;;"></path>
+</g>
+<path class="st0" d="M13,26c0,4.339,1.929,11,9,11c4.774,0,8-3,9-8h2c1,5,4.229,8,9,8c7.071,0,9-6.661,9-11h-9H22H13z" style="fill:#47475E;;"></path>
+<path class="st4" d="M32,49c-10.774,0-12.437-7.949-12.485-8.288l2.967-0.44C22.521,40.505,23.624,46,32,46  c8.494,0,9.507-5.655,9.515-5.712l2.971,0.424C44.437,41.051,42.774,49,32,49z" style="opacity:0.6;;"></path>
+<path class="st6" d="M23,15c0,1.104-0.896,2-2,2h-1c-1.104,0-2-0.896-2-2V5c0-1.104,0.896-2,2-2h1c1.104,0,2,0.896,2,2V15z M46,5  c0-1.104-0.896-2-2-2h-1c-1.104,0-2,0.896-2,2v10c0,1.104,0.896,2,2,2h1c1.104,0,2-0.896,2-2V5z" style="fill:#A6A69F;;"></path>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="575339253_Layer_1_grid" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+
+<g>
+	<defs>
+		<path id="575339253_SVGID_1__grid" d="M51.774,43.125C51.597,42.461,50.996,42,50.309,42h-9.813l10.818-18.738c0.269-0.466,0.269-1.042,0-1.508    C51.044,21.288,50.546,21,50.007,21H38l7.932-13.738c0.27-0.467,0.27-1.042,0-1.508S45.165,5,44.626,5H34.81    c-1.355,0-2.608,0.724-3.286,1.897L17.727,30.795c-0.263,0.455-0.263,1.015,0,1.47C17.989,32.72,18.474,33,19,33h12.072l-5.196,9    h-9.579c-0.804,0-1.547,0.429-1.949,1.125s-0.402,1.554,0,2.25l7.795,13.5C22.56,59.597,23.316,60,24.094,60    c0.381,0,0.766-0.097,1.12-0.3l25.851-14.871C51.66,44.487,51.951,43.789,51.774,43.125z"></path>
+	</defs>
+	<use xlink:href="#575339253_SVGID_1__grid" class="stshockcolor" style="fill:#F7C90B;;" data-st="fill:#F7C90B;;"></use>
+	<clipPath id="575339253_SVGID_2__grid">
+		<use xlink:href="#575339253_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st2" style="clip-path:url(#575339253_SVGID_2__grid);;">
+		<polygon class="st4" points="23.763,33 39.93,5 30.853,5 14.687,33   " style="opacity:0.08;fill:#7D1CC7;;"></polygon>
+		<polygon class="st1" points="23.763,33 39.93,5 30.853,5 14.687,33   " style="opacity:0.08;;"></polygon>
+		<polygon class="st0" points="22.788,60.007 54.386,60.007 54.386,21 45.309,21  " style="fill:#FFFFFF;fill-opacity:0.3;;"></polygon>
+	</g>
+</g>
+</svg>
